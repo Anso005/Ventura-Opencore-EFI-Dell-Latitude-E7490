@@ -66,9 +66,14 @@ All steps can be seen in this video: https://www.youtube.com/watch?v=kTYlxcL1cQc
 ### Note:
 This has been tested by me. I have been using this alptop for over 6 months now with bigsur, then montery and now ventura. No sleeping issues were seen afterwards. But if you clen install MacOs again via usb. You will need to repeat the steps above.
 
+### Method for logging in to Apple ID
+Use GenBios to generate Serial, ID and MLB for your machine.
+Follow this tutorial: https://www.youtube.com/watch?v=TWMZb_fu2hk
+Afterwards, simply login your Apple ID.
+
 ## More To come:
-I will be demostrating all these processes via youtube. I just need support for you. Together we will create a community and help other users learn the art of hackintoshing.
+I will be demostrating all these processes via youtube. I just need your support. Together we will create a community and help other users learn the art of hackintoshing.
 Support me by sponsoring or paying me as an appreciation. 
-I will also me helping my sponsors by talking to them on calls.
+I will also be providing special help service to my sponsors.
 
 ## Thank You For Your Love & Support.
