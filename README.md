@@ -72,8 +72,8 @@ Follow this tutorial: https://www.youtube.com/watch?v=TWMZb_fu2hk
 Afterwards, simply login your Apple ID.
 
 ## More To come:
-I will be demostrating all these processes via youtube. I just need support for you. Together we will create a community and help other users learn the art of hackintoshing.
+I will be demostrating all these processes via youtube. I just need your support. Together we will create a community and help other users learn the art of hackintoshing.
 Support me by sponsoring or paying me as an appreciation. 
-I will also me helping my sponsors by talking to them on calls.
+I will also be providing special help service to my sponsors.
 
 ## Thank You For Your Love & Support.
