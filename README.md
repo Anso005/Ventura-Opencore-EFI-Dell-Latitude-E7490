@@ -1,4 +1,4 @@
-# IT IS IMPORTANT TO READ THE DESCRIPTION BEFORE INSTALLING
+ IT IS IMPORTANT TO READ THE DESCRIPTION BEFORE INSTALLING
 # Dell Latitude 7490 Hackintosh EFI
 # MacOS 11.x Ventura via Helliport=For Internet Module
 
@@ -8,7 +8,7 @@ I have been using this hackintosh for a long time, and it works well on my lapto
 Every think works flawlessly.
 You can show your support by sponsoring me. It will indeed be a sign of appreciation.
 
-Note: This efi is made on basis of dell latitude e7490. This can also be used with similar spec dell laptop.
+Note: This efi is made on basis of Dell latitude e7490. This can also be used with similar spec Dell laptop.
 
 ## IMPORTANT NOTE (VERY IMPORTANT AT BOOTING PROCESS AFTER MacOS IS INSTALLED)
 Note: When laptop is turned on don't press any keyboard key or button. At Apple logo when the loading bar is at half press Fn+PrtSCR(located next to F12 key).
