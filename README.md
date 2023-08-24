@@ -19,10 +19,7 @@ After pressed the screen will blink and loading will be completed. You will be d
 macOS 13.5-13.5.1 using OpenCore 0.6+
 
 ## Intsallation Process:
-For installation process I recommend watching this youtube video: https://www.youtube.com/watch?v=J1d0AmVFWKM
-He uses efi installation EFi for pc. You need to download the one for laptop. As, my laptop has coffelake processor, so I used opencore efi for coffeelake laptop.
-I have uploaded it with name EFI(BOOTING). But note that when placing it on usb rename it to EFI.
-After the macos has been installed according to video place efi named EFI(MAIN) in the MacOs boot drive and rename it back to EFI. All steps are explained in the video. Just use my files instead of those used in his video.
+For installation process I recommend watching this youtube video: https://www.youtube.com/watch?v=J1d0AmVFWKM. He uses EFi for pc. You need to download the one for laptop. As, my laptop has coffelake processor, so I used opencore efi for coffeelake laptop. I have uploaded it with name EFI(BOOTING). But note that when placing it on usb rename it to EFI. After the macos has been installed according to video place efi named EFI(MAIN) in the MacOs boot drive and rename it back to EFI. All steps are explained in the video. Just use my files instead of those used in his video.
 
 
 ## System configuration
@@ -62,10 +59,8 @@ But charging via thunderbolt+Usb-C port works flawlessly.
 ## Resolving Sleep Isue
 After installing MacOs sucessfully. The first issue you will be facing which I faced is sleep and shutdown issue.
 I resolved it by opening the back lid and disconnecting the laptops battery. Then unplug CMOS battery. Press and hold down power button of laptp for 1 minute. This will be reseting the laptops bios and settings. After holding the power button for 1 minute re-attach the CMOS and laptops battery. Close the lid. Turn on the laptop and your sleep and shutdown issue will be resolved.
-
 All steps can be seen in this video: https://www.youtube.com/watch?v=kTYlxcL1cQc
-
-Note:
+### Note:
 This is tested by me. I have been using this alptop for over 6 months now with bigsur, then montery and now ventura. No sleeping issues were seen afterwards. But if you clen install MacOs again via usb. You will need to repeat the steps above.
 
 ## More To come:
