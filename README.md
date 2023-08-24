@@ -1,14 +1,14 @@
-# IT IS IMPORTANT TO RAD ALL THE DESCRIPTION BEFORE INSTALLING
+# IT IS IMPORTANT TO READ THE DESCRIPTION BEFORE INSTALLING
 # Dell Latitude 7490 Hackintosh EFI
-# macOS 11.x Ventura via Helliport=For internet module
+# MacOS 11.x Ventura via Helliport=For Internet Module
 
 ## History
 This project is all alone developed by me. I took me 11 months to make the efi.
 I have been using this hackintosh for a long time, and it works well on my laptop.
 Every think works flawlessly.
-You can show your support to me by sponsoring me. It will indeed be a sign of appreciation.
+You can show your support by sponsoring me. It will indeed be a sign of appreciation.
 
-Note: This efi is made on basis odf dell latitude e7490. This can also be used with similar specs dell laptops.
+Note: This efi is made on basis of dell latitude e7490. This can also be used with similar spec dell laptop.
 
 ## IMPORTANT NOTE (VERY IMPORTANT AT BOOTING PROCESS AFTER MacOS IS INSTALLED)
 Note: When laptop is turned on don't press any keyboard key or button. At Apple logo when the loading bar is at half press Fn+PrtSCR(located next to F12 key).
@@ -28,6 +28,9 @@ For installation process I recommend watching this youtube video: https://www.yo
 - Intel UHD 620 Graphics
 - Samsung SSD 970 EVO 256gb(can also be used with other configuration of storage i.e 500gb, 1000gb etc)
 - Intel Dual-Band Wireless-AC 8265
+  #### Note:
+  To use internet you need to install Helliport.dmg in your system and add it in login items.
+  Download it from official repository: https://github.com/OpenIntelWireless/HeliPort/releases/tag/v1.4.1
 
 ## Confirm working
 1) Loudspeaker
@@ -61,7 +64,7 @@ After installing MacOs sucessfully. The first issue you will be facing which I f
 I resolved it by opening the back lid and disconnecting the laptops battery. Then unplug CMOS battery. Press and hold down power button of laptp for 1 minute. This will be reseting the laptops bios and settings. After holding the power button for 1 minute re-attach the CMOS and laptops battery. Close the lid. Turn on the laptop and your sleep and shutdown issue will be resolved.
 All steps can be seen in this video: https://www.youtube.com/watch?v=kTYlxcL1cQc
 ### Note:
-This is tested by me. I have been using this alptop for over 6 months now with bigsur, then montery and now ventura. No sleeping issues were seen afterwards. But if you clen install MacOs again via usb. You will need to repeat the steps above.
+This has been tested by me. I have been using this alptop for over 6 months now with bigsur, then montery and now ventura. No sleeping issues were seen afterwards. But if you clen install MacOs again via usb. You will need to repeat the steps above.
 
 ## More To come:
 I will be demostrating all these processes via youtube. I just need support for you. Together we will create a community and help other users learn the art of hackintoshing.
