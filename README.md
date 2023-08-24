@@ -1,6 +1,6 @@
  IT IS IMPORTANT TO READ THE DESCRIPTION BEFORE INSTALLING
 # Dell Latitude 7490 Hackintosh EFI
-# MacOS 11.x Ventura via Helliport=For Internet Module
+# MacOS 13.x Ventura via Helliport=For Internet Module
 
 ## History
 This project is all alone developed by me. I took me 11 months to make the efi.
