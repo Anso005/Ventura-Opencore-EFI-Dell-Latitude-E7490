@@ -1515,7 +1515,7 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02736701J9HWVPFB</string>
+			<string>XXXX</string>
 			<key>ROM</key>
 			<data>vEq14z2u</data>
 			<key>SpoofVendor</key>
@@ -1523,9 +1523,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro14,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02V4QZ1HV2N</string>
+			<string>XXXX</string>
 			<key>SystemUUID</key>
-			<string>CE459465-B606-40BB-A4C0-4C7123A7CEF2</string>
+			<string>XXXX</string>
 		</dict>
 		<key>PlatformNVRAM</key>
 		<dict>
